@@ -101,9 +101,7 @@ $ git commit -m 'feat: My new feature'
 # Send the code to your remote branch
 $ git push origin my-feature
 ```
-### Front
 
-![alt text](image.png)
 
 ## 🤝 Desenvolvedor
 
