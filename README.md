@@ -36,10 +36,9 @@
 
 - <p style="color: red;">POS (Point of Sale System) built with ReactJS</p>
 
-- [Template @ Figma](https://www.figma.com/file/hjFds4JruLo2SWobQbb2Ss/PDVReact-Frontend?node-id=24%3A2)
 
 <h1 align="center">
-	<img alt="Mockup" width="800px" src=".github/mockup.png" width="200px" />
+	<img alt="Mockup" width="800px" src="image.png" width="200px" />
 </h1>
 
 ## 🚀 Technologies
